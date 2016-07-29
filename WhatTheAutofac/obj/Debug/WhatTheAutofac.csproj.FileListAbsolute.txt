@@ -1,0 +1,9 @@
+C:\dev\sandbox\WhatTheAutofac\WhatTheAutofac\bin\Debug\WhatTheAutofac.dll
+C:\dev\sandbox\WhatTheAutofac\WhatTheAutofac\bin\Debug\WhatTheAutofac.pdb
+C:\dev\sandbox\WhatTheAutofac\WhatTheAutofac\bin\Debug\Autofac.dll
+C:\dev\sandbox\WhatTheAutofac\WhatTheAutofac\bin\Debug\nunit.framework.dll
+C:\dev\sandbox\WhatTheAutofac\WhatTheAutofac\bin\Debug\Autofac.xml
+C:\dev\sandbox\WhatTheAutofac\WhatTheAutofac\bin\Debug\nunit.framework.xml
+C:\dev\sandbox\WhatTheAutofac\WhatTheAutofac\obj\Debug\WhatTheAutofac.csprojResolveAssemblyReference.cache
+C:\dev\sandbox\WhatTheAutofac\WhatTheAutofac\obj\Debug\WhatTheAutofac.dll
+C:\dev\sandbox\WhatTheAutofac\WhatTheAutofac\obj\Debug\WhatTheAutofac.pdb

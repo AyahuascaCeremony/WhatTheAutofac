@@ -1,0 +1,6 @@
+﻿namespace WhatTheAutofac
+{
+    interface IFirstInterface
+    {
+    }
+}
